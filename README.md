@@ -13,6 +13,8 @@ This project uses the () dataset from Kaggle.
   - penguins_lter.csv -- more information of the penguins who have or haven't had eggs and provides values for the eggs size and the adult penguin who cared for them
 - figures/
 - outputs/
+  - penguin_df_clean.csv -- a clean dataframe for the penguins_size.csv that has no NA values
 - code/
+  - data_inspection.py -- practice for using Path function and functions used in pandas for file manipulation across different files.
 
 ## Progress to track
