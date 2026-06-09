@@ -4,17 +4,15 @@
 How do Penguin measurements differ by species, island, and body size.
 
 ## Dataset
-This project uses the () dataset from Kaggle.
+This project uses the (Palmer Archipelago (Antarctica) penguin data) dataset from Kaggle by Parul Pandy.
 
 ## Folder Structure
 - data/
   - penguins.csv -- practice for inputing values into a dataframe
   - penguins_size.csv -- information on the penguins species, region, length, depth, flipper dimensions, weight in grams, and sex
   - penguins_lter.csv -- more information of the penguins who have or haven't had eggs and provides values for the eggs size and the adult penguin who cared for them
-- figures/
 - outputs/
   - penguin_df_clean.csv -- a clean dataframe for the penguins_size.csv that has no NA values
 - code/
   - data_inspection.py -- practice for using Path function and functions used in pandas for file manipulation across different files.
 
-## Progress to track
